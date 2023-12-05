@@ -19,16 +19,7 @@ let respecConfig = {
   subtitle: "Een werkmethode voor het doen van onderzoek door derden naar het gebruik van algoritmen door een overheidsorganisatie.",
   
   // Content
-  content: {
-    "De-LegitiMaat.md": "informative",
-    "Visitatie.md": "",
-    "Watenwie.md": "",
-    "Documentenlijst.md": "",
-    "Juridisch-perspectief.md": "",
-    "Ontwikkelaars-perspectief.md": "",
-    "Audit-accountant-perspectief.md": "",
-    "Begrippenlijst.md": ""
-  },
+  content: {"De-LegitiMaat.md": "informative", "Visitatie.md": "", "Watenwie.md": "", "Documentenlijst.md": "", "Juridisch-perspectief.md": "", "Ontwikkelaars-perspectief.md": "", "Audit-accountant-perspectief.md": "", "Begrippenlijst.md": ""},
   editors: [{
     name: "Mildo van Staden",
     mailto: "Mildo.Staden@minbzk.nl",
