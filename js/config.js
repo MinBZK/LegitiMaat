@@ -60,7 +60,7 @@ let respecConfig = {
     url: "https://www.tno.nl",
   }, {
     name: "Abram Klop",
-    url: "https://www.ubrijk.nl/service/i-interim-rijk",
+    url: "https://www.rijksorganisatieodi.nl/i-interim-rijk",
   }, {
     name: "Steven Gort",
     url: "https://www.ictu.nl",
