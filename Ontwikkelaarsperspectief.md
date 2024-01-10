@@ -1,5 +1,5 @@
 # Ontwikkelaarsperspectief vragenlijst
-
+hallo 
 ## Analyse
 1. Is er een gedetailleerde beschrijving van de huidige werking van het (primaire) proces, voor zover relevant, een omschrijving van het op te lossen probleem en de omvang daarvan? Is de probleemeigenaar (de verantwoordelijke voor het probleemgebied) bekend?
 2. Wat moet met de voorgestelde verandering worden gerealiseerd, zo mogelijk uitgedrukt in verbetering van rechtmatigheid, doelmatigheid, klanttevredenheid en medewerkertevredenheid?
