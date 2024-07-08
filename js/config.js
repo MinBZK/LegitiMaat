@@ -85,7 +85,7 @@ let respecConfig = {
   alternateFormats: [
     {
       label: "pdf",
-      uri: "LegitiMaat.pdf",
+      uri: "https://regels.overheid.nl/publicaties/legitimaat/pdf",
     },
   ],
 };
