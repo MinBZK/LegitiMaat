@@ -10,11 +10,11 @@ let respecConfig = {
   // shortName = Repository name
   shortName: "LegitiMaat",
   publishDate: "2022-07-01",
-  publishVersion: "1.0.0",
+  publishVersion: "1.0.1",
 
-  previousPublishVersion: "",
-  previousPublishDate: "",
-  previousMaturity: "WV",
+  previousPublishVersion: "1.0.0",
+  previousPublishDate: "2022-07-01",
+  previousMaturity: "DEF",
   title: "LegitiMaat",
   subtitle:
     "Een werkmethode voor het doen van onderzoek door derden naar het gebruik van algoritmen door een overheidsorganisatie.",
