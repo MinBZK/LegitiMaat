@@ -10,7 +10,7 @@ let respecConfig = {
   // shortName = Repository name
   shortName: "LegitiMaat",
   publishDate: "2022-07-01",
-  publishVersion: "1.0.2",
+  publishVersion: "1.0.3",
 
   previousPublishVersion: "1.0.0",
   previousPublishDate: "2022-07-01",
@@ -85,7 +85,7 @@ let respecConfig = {
   alternateFormats: [
     {
       label: "pdf",
-      uri: "https://regels.overheid.nl/publicaties/legitimaat/pdf",
+      uri: "https://regels.overheid.nl/standaarden/legitimaat/pdf",
     },
   ],
 };
