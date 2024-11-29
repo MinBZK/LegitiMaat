@@ -12,9 +12,9 @@ let respecConfig = {
   publishDate: "2022-07-01",
   publishVersion: "1.0.2",
 
-  previousPublishVersion: "",
-  previousPublishDate: "",
-  previousMaturity: "WV",
+  previousPublishVersion: "1.0.0",
+  previousPublishDate: "2022-07-01",
+  previousMaturity: "DEF",
   title: "LegitiMaat",
   subtitle:
     "Een werkmethode voor het doen van onderzoek door derden naar het gebruik van algoritmen door een overheidsorganisatie.",
@@ -85,7 +85,7 @@ let respecConfig = {
   alternateFormats: [
     {
       label: "pdf",
-      uri: "LegitiMaat.pdf",
+      uri: "https://regels.overheid.nl/publicaties/legitimaat/pdf",
     },
   ],
 };
